@@ -676,7 +676,7 @@ body.is-instant:after {
   -ms-justify-content: center;
   justify-content: center;
   background-attachment: fixed;
-  background-image: url("images/container02.png");
+  background-image: url("images/container02.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
